@@ -1,4 +1,4 @@
-# reqhound
+# REQHOUND
 
 Track what your Python script actually imports at runtime, not what's installed.
 
