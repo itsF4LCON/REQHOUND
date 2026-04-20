@@ -5,7 +5,7 @@ import sys
 import time
 import os
 import contextlib
-from reqtrace.main import Tracker, parse_requirements, get_explicit_imports
+from reqhound.main import Tracker, parse_requirements, get_explicit_imports
 
 app = typer.Typer()
 
