@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "reqhound"
+version = "0.1.0"
+description = "Track what your Python script imports at runtime"
+requires-python = ">=3.10"
+dependencies = ["typer"]
+
+[project.scripts]
+reqhound = "reqtrace.cli:app"
