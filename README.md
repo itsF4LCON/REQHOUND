@@ -1,6 +1,6 @@
 # reqhound 🐾
 
-> Track what your Python script **actually imports at runtime** — not what's installed.
+> Track what your Python script **actually imports at runtime**, not what's installed.
 
 ![PyPI](https://img.shields.io/pypi/v/reqhound)
 ![Python](https://img.shields.io/pypi/pyversions/reqhound)
