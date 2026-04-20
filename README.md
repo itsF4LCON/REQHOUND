@@ -4,7 +4,6 @@
 
 ![PyPI](https://img.shields.io/pypi/v/reqhound)
 ![Python](https://img.shields.io/pypi/pyversions/reqhound)
-![License](https://img.shields.io/pypi/l/reqhound)
 
 ---
 
