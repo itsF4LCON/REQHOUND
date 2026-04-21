@@ -3,6 +3,7 @@
 > Track what your Python script **actually imports at runtime**, not what's installed.
 
 ![PyPI](https://img.shields.io/pypi/v/reqhound)
+![Python Versions](https://img.shields.io/pypi/pyversions/reqhound)
 
 ![demo](demo.gif)
 
@@ -47,13 +48,13 @@ reqhound export            # write a clean requirements.txt
 
 ## Workflow
 
-**New project — no requirements.txt yet:**
+**New project | no requirements.txt yet:**
 ```bash
 reqhound run myscript.py
 reqhound export            # creates requirements.txt from scratch
 ```
 
-**Existing project — check for drift:**
+**Existing project | check for drift:**
 ```bash
 reqhound run myscript.py
 reqhound check             # see what's missing or unused
@@ -72,4 +73,5 @@ reqhound check             # see what's missing or unused
 
 ---
 
-Thank You !
+## Keywords
+python cli, requirements.txt generator, pip freeze alternative, dependency analyzer
