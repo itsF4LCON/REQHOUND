@@ -4,6 +4,8 @@
 
 ![PyPI](https://img.shields.io/pypi/v/reqhound)
 
+![demo](demo.gif)
+
 ---
 
 ## The problem
